@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "code_orders": 123,
+    "total_order": 100,
+    "date_of_invoice": "2 january"
+  },
+  {
+    "id": 2,
+    "code_orders": 456,
+    "total_order": 100,
+    "date_of_invoice": "2 january"
+  }
+]

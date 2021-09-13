@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "price": 50,
+    "total_order": 100,
+    "order_date": "2 january",
+    "status": "shiping",
+    "customer": "nguyen van A",
+    "store": "HCMC"
+  },
+  {
+    "id": 2,
+    "price": 100,
+    "total_order": 200,
+    "order_date": "4 january",
+    "status": "shiping",
+    "customer": "nguyen van B",
+    "store": "Hanoi"
+  },
+  {
+    "id": 3,
+    "price": 100,
+    "total_order": 200,
+    "order_date": "4 january",
+    "status": "shiping",
+    "customer": "nguyen van B",
+    "store": "HCMC"
+  }
+]

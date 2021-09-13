@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "product1",
+    "status": "stocking",
+    "price": "100",
+    "volumn": "50",
+    "total_order": "5",
+    "handing": 24011
+  },
+  {
+    "id": 2,
+    "name": "product2",
+    "status": "stocking",
+    "price": "200",
+    "volumn": "100",
+    "total_order": "10",
+    "handing": 60195
+  },
+  {
+    "id": 3,
+    "name": "Product3",
+    "status": "stocking",
+    "price": "250",
+    "volumn": "200",
+    "total_order": "20",
+    "handing": 96328
+  }
+]
